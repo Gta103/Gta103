@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Gta103
 
-<!--
-**Gta103/Gta103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Blockchain Developer
+Passionate about building innovative Web3 products that merge technology, creativity, and decentralization.
 
-Here are some ideas to get you started:
+### 🧠 Crypto & Blockchain Knowledge
+- Deep understanding of smart contracts and decentralized applications (dApps)
+- Active in the crypto ecosystem, following trends and developing new blockchain use cases
+- Advocate for Web3 education and open-source collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 NFT & Creative Projects
+Meme-inspired NFTs that deliver short, fun voice clips like “LFG” and “I’m rich now 🤟🏻”, showcasing my crypto knowledge and understanding of blockchain trends.
+
+---
+
+![Profile Picture](./128793276.jfif)
